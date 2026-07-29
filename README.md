@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Backend and Java Script projects<br>🌱 Learning system design, LangChain & advanced prompt engineering<br>👯 Open to collaborate on AI/Full Stack projects<br>💬 Ask me about YOLO, OpenCV, React, or Python and Html<br>📫 Open to internship opportunities<br>⚡ Fun fact: I once built an AI safety system for a power company as a college project
+🔭 Working on Backend and Java Script projects<br>🌱 Learning system design, LangChain & advanced prompt engineering<br>👯 Open to collaborate on AI/Full Stack projects<br>💬 Ask me about Next js, React, or Java Script and Html/Css <br>📫 Open to internship opportunities<br>⚡ Fun fact: I once built an AI safety system for a power company as a college project
 
 
 ## 🌐 Socials:
